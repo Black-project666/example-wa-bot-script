@@ -26,8 +26,8 @@ module.exports = {
     profile_status: 'Bot Status'
   },
   owner: {
-    name: ["Owner Name"],
-    number: ["628xxx"]
+    name: ["Espo Bot"],
+    number: ["62895424890174"]
   }
   date: {
     country: 'id-ID',
